@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button.item {
+  width: 24px;
+    border-radius: 40%;
+    cursor: pointer;
+    background:  transparent;
+color: white;
+height: 18px;
+margin: 1px;
+}
+.standard {
+  border: 1px solid #d4d4d4;
+}
+.vip {
+  border: 1px solid #567b56;
+}
+.deluxe {
+  border: 1px solid #7c7cff;
+}
